@@ -14,7 +14,7 @@ business directly inside Claude Cowork - no file downloads.
 In Claude Cowork, an admin adds this marketplace once, then installs the plugin:
 
 ```
-/plugin marketplace add SixFlowAI/sixflow-marketplace
+/plugin marketplace add sixflow-ai/claude-law-agent
 /plugin install sixflow-law-firm-ops@sixflow
 ```
 

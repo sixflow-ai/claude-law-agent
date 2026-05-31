@@ -1,0 +1,14 @@
+{
+  "name": "sixflow",
+  "owner": {
+    "name": "SixFlow",
+    "url": "https://sixflow.ai"
+  },
+  "plugins": [
+    {
+      "name": "sixflow-law-firm-ops",
+      "source": "./plugins/sixflow-law-firm-ops",
+      "description": "AI operations assistant for law firms: automatic morning brief, inbox digest, and legal document review."
+    }
+  ]
+}

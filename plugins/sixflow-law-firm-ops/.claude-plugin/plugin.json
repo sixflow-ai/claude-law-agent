@@ -1,0 +1,18 @@
+{
+  "name": "sixflow-law-firm-ops",
+  "version": "0.4.0",
+  "description": "AI operations assistant for law firms. Turns a connected inbox and calendar into a prioritized daily digest, and reviews legal documents to surface parties, deadlines, key terms, and risks for attorney review. Built by SixFlow.",
+  "author": {
+    "name": "SixFlow"
+  },
+  "homepage": "https://sixflow.ai",
+  "keywords": [
+    "law-firm",
+    "legal",
+    "inbox",
+    "digest",
+    "intake",
+    "operations",
+    "sixflow"
+  ]
+}
